@@ -1,0 +1,12 @@
+D:\Microsoft VS Projects\TBD_AIR\bin\Release\Database_AIR.mdf
+D:\Microsoft VS Projects\TBD_AIR\bin\Release\Database_AIR_log.ldf
+D:\Microsoft VS Projects\TBD_AIR\bin\Release\TBD_AIR.exe.config
+D:\Microsoft VS Projects\TBD_AIR\bin\Release\TBD_AIR.exe
+D:\Microsoft VS Projects\TBD_AIR\bin\Release\TBD_AIR.pdb
+D:\Microsoft VS Projects\TBD_AIR\obj\Release\TBD_AIR.Form1.resources
+D:\Microsoft VS Projects\TBD_AIR\obj\Release\TBD_AIR.Properties.Resources.resources
+D:\Microsoft VS Projects\TBD_AIR\obj\Release\TBD_AIR.csproj.GenerateResource.cache
+D:\Microsoft VS Projects\TBD_AIR\obj\Release\TBD_AIR.csproj.CoreCompileInputs.cache
+D:\Microsoft VS Projects\TBD_AIR\obj\Release\TBD_AIR.exe
+D:\Microsoft VS Projects\TBD_AIR\obj\Release\TBD_AIR.pdb
+D:\Microsoft VS Projects\TBD_AIR\obj\Release\TBD_AIR.csprojAssemblyReference.cache
