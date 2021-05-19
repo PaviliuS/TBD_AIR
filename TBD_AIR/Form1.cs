@@ -79,5 +79,9 @@ namespace TBD_AIR
         {
             procedure($"INSERT INTO t_sales(f_passenger, f_plane, f_city, f_employee, f_terminal, f_class, f_ticket_volume, f_price, f_data)VALUES(N'{textBox1.Text}', N'{textBox2.Text}', N'{textBox3.Text}', N'{textBox4.Text}', N'{textBox5.Text}', N'{textBox6.Text}',N'{textBox7.Text}', N'{textBox8.Text}', SYSDATETIME());");
         }
+        private void buttonAdd_Click(object sender, EventArgs e)
+        {
+            procedure($"INSERT INTO t_passengers(f_name_1, f_name_2, f_name_3, f_passport) VALUES(N'{textBox9.Text}', N'{textBox10.Text}', N'{textBox11.Text}', N'{textBox12.Text}');");
+        }
     }
 }
